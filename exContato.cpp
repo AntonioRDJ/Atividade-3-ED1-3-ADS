@@ -9,7 +9,6 @@ class Data
 		int dia;
 		int mes;
 		int ano;
-		int idade2;
 		
 	public:
 		Data(int dia, int mes, int ano)
@@ -210,4 +209,3 @@ o ano do sistema operacional.
 Implementar uma solução que permita cadastrar e exibir uma estrutura com 5 contatos 
 (ao exibir, informar nome, e-mail, telefone e idade).
 */
-
